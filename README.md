@@ -228,7 +228,7 @@ The pre-processing stage is critical for handwritten documents:
 
 ---
 
-## 🧪 Testing with New Documents
+##  Testing with New Documents
 
 To test with your own documents:
 
@@ -281,7 +281,7 @@ To test with your own documents:
 
 ---
 
-## 📚 Dependencies
+##  Dependencies
 
 - **opencv-python** - Image processing and manipulation
 - **easyocr** - OCR engine for text extraction
@@ -364,5 +364,3 @@ For issues or questions:
 3. Examine the debug output images in `outputs/`
 
 ---
-
-**Last Updated:** December 2025
