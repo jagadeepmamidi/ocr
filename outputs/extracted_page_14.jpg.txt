@@ -1,0 +1,39 @@
+Drug (Approved Nane) M 1 4S [14 '5 J 18T 80 2 LLI DegyaphioyeOTEME 6 TNI - DAn 70 eetreele #kin 4 74 PDMUpho GEL 10 {avitevfut Jose Rore (oiner Diredui] bwi Dose Roulc Otter Diredtion 12 @ Onl 9 Ph 44 14 pml 0o4 18 ele& (S98n5 1 kialdn Date & Time | Suatse 22 Acmc "/435 De' #. 15-4"2s Sr' Rakesh 24 KArxroved Nante) Crug (Apprcved Name) 6 6 T4TAXIM (t0' 0 NTCOGUM Qlfuzet ( T Roule |Pre- Directon] 12 Dose Route Jother Drection 72 (Twict 4 14 Ff0 utlues 0 26x Icd Pp phun Qate & Tun" Daly (Sgnalure Llas M#n 2 6.4nS @rkMorah 24 ((Approved Mama) Drug (Appraved Name) 09t2is) Sr - HCPALV (Lud 6 NElvm cHwlzy d do X lawvd Route IOrher Directon peterl I0 Vpo Pxeeza] 4 12 2 8lo Stimey 3uyy & Ccy 8 Dato & Time skgnanne 2 Jal 44 & [RaAash SQH Ayt Jaltcw Vxybs Or R9c ' Drug (Anproved / 2 ((Approved Name} P~? ZNj-Lopez 6 @NT Lopc? {ojrt Routa bter Diredton] 12 Dose Route |olher Direcln] 12 Joddl W  Tuks 14 4 Eze Iv [icea 14 18 4ds 8 Sinelute Dale & Time| @2ar4 KwAm Illx IOus eosh. 8 Anv [9i4i2s Mseih 24 Drg(Aporoved Name) I(Approved Name) 'BZfiLAC 6 TAB: PAN (6) Imd k Dose Roule Ditert ? ini; Doze Roule btics Diecton 10 4p Plo Tw 1530 Knzl Plo Oua 0l 2 (Sigr-lue ? [1s| (Date & Tire| sSgnalie 1 (YI |Dasen] Bni las Dn 5*4 'DJki Arkoeree Nanie) Drug (Approved Name} 6 Qu Tae NHLTIA Ealer Clrecicn] Dosa Roula "Othe Citecik motkky Acof  pio Oaue 9 14 Pio praas 0 12 Dale & 2 Date & Time 2 7 4442 @lr 'Rony} 24 24 64T 'pnla lPS dpdi ckel Ilebke Time  Dnu B-ves Dosu Fx Au Don Time Time| Signalure Drug ( ouj (Dose Doja Roule lan  Dale Icldewl Tune] Sgnaure Drug  Nae) TMHEA Ikull 4 Doze Dmmem;l 4 DtXl Ahehh pate Tine (Siynaiuie 3444 Dnuq ( cAp" 4od 8 DiFiosh 4umt Dala Anm Time Cap Doso Rolte Alsa such Tune Sgrahie (Slgneteebxtlys DAJ-
+
+--- DETECTED PII ---
+ORG: GEL
+PERSON: Jose Rore
+ORG: Diredui
+ORG: Dose Roulc Otter Diredtion
+ORG: kialdn Date & Time
+PERSON: Suatse 22 Acmc
+PERSON: Qlfuzet
+ORG: Icd Pp phun Qate & Tun"
+ORG: Lud
+ORG: NElvm
+PERSON: IOrher Directon
+PERSON: I0 Vpo Pxeeza
+ORG: Stimey 3uyy & Ccy 8 Dato & Time
+PERSON: Diredton
+ORG: Sinelute Dale & Time|
+PERSON: KwAm Illx IOus
+ORG: TAB
+ORG: PAN
+PERSON: Ditert
+PERSON: ini
+PERSON: Doze Roule
+ORG: Diecton
+PERSON: Knzl Plo Oua
+ORG: Date & Tire| sSgnalie 1
+ORG: DJki Arkoeree
+ORG: Nanie) Drug
+ORG: Dale & 2 Date & Time
+PERSON: dpdi ckel
+ORG: Ilebke Time  Dnu B-
+PERSON: Dale Icldewl Tune
+ORG: Tine
+PERSON: Siynaiuie
+PERSON: Dnuq
+ORG: DiFiosh
+ORG: Dala Anm Time Cap Doso Rolte Alsa
+PERSON: Tune Sgrahie

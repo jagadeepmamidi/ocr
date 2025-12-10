@@ -1,0 +1,194 @@
+================================================================================
+IMPROVED OCR EXTRACTION (Quality Filtered)
+================================================================================
+
+Source: page_14.jpg
+Total detections: 257
+Accepted (readable): 97
+Rejected (unreadable): 160
+Acceptance rate: 37.7%
+
+================================================================================
+CLEANED TEXT
+================================================================================
+
+Drug (Approved Nane) LLI 74 PDMUpho GEL TNI - 10 Roulc Otter Diredtion 12 Dose Jose bwi Ph 14 44 18 0o4 22 Time  15-4"2s 24 Crug (Apprcved Name) Dnu T4TAXIM (t0' Dosu Dose Route Jother Drection 72 12 utlues (Twict 4 14 Tun" Time Qate & (Sgnalure Time| Signalure Llas 24 Drug ( Drug (Appraved Name) do (Dose Roule 12 Stimey I0 Vpo Jal Dale Sgnaure Drug  ((Approved Name} ZNj-Lopez @NT Lopc? {ojrt 12 Doze Dose Route |olher Direcln] 12 Iv 14 14 18 Dale & Time| (Siynaiuie Tine @2ar4 Mseih 24 Dnuq ( I(Approved Name) cAp" 10 Dose 1530 Tw Plo Dala Time (Sigr-lue las Drug (Approved Name} Nanie) Tae NHLTIA Dosa 14 12 4442 Dale & Tune Date & Time @lr 24 24
+
+================================================================================
+DETECTED PII (10 items)
+================================================================================
+ORG: GEL
+PERSON: Roulc Otter
+ORG: Time
+PERSON: Jother Drection
+ORG: Twict 4 14 Tun" Time Qate & (
+PERSON: Stimey I0 Vpo Jal Dale Sgnaure Drug
+ORG: Dale & Time|
+PERSON: Dnuq
+ORG: Nanie
+ORG: Dale & Tune Date & Time
+
+
+================================================================================
+REJECTED TEXT (Low Quality/Unreadable)
+================================================================================
+'M' (confidence: 0.14) - Reason: Low confidence
+'1' (confidence: 0.51) - Reason: Too short
+'4S [14 '5' (confidence: 0.14) - Reason: Low confidence
+'J' (confidence: 0.77) - Reason: Too short
+'18T' (confidence: 0.20) - Reason: Low confidence
+'80' (confidence: 0.08) - Reason: Low confidence
+'2' (confidence: 0.99) - Reason: Too short
+'DegyaphioyeOTEME' (confidence: 0.01) - Reason: Low confidence
+'6' (confidence: 1.00) - Reason: Too short
+'DAn' (confidence: 0.23) - Reason: Low confidence
+'70' (confidence: 0.17) - Reason: Low confidence
+'eetreele #kin' (confidence: 0.01) - Reason: Low confidence
+'4' (confidence: 0.50) - Reason: Too short
+'{avitevfut' (confidence: 0.06) - Reason: Low confidence
+'Rore (oiner Diredui]' (confidence: 0.07) - Reason: Low confidence
+'@' (confidence: 0.17) - Reason: Low confidence
+'Onl 9' (confidence: 0.16) - Reason: Low confidence
+'pml' (confidence: 0.09) - Reason: Low confidence
+'ele&' (confidence: 0.20) - Reason: Low confidence
+'(S98n5' (confidence: 0.04) - Reason: Low confidence
+'1' (confidence: 0.16) - Reason: Low confidence
+'kialdn' (confidence: 0.11) - Reason: Low confidence
+'Date & Time | Suatse' (confidence: 0.16) - Reason: Low confidence
+'Acmc' (confidence: 0.09) - Reason: Low confidence
+'"/435' (confidence: 0.14) - Reason: Low confidence
+'De' #.' (confidence: 0.23) - Reason: Low confidence
+'Sr' Rakesh' (confidence: 0.11) - Reason: Low confidence
+'KArxroved Nante)' (confidence: 0.07) - Reason: Low confidence
+'6' (confidence: 0.41) - Reason: Too short
+'6' (confidence: 1.00) - Reason: Too short
+'0' (confidence: 0.99) - Reason: Too short
+'NTCOGUM Qlfuzet (' (confidence: 0.21) - Reason: Low confidence
+'T' (confidence: 0.38) - Reason: Too short
+'Roule |Pre- Directon]' (confidence: 0.16) - Reason: Low confidence
+'Ff0' (confidence: 0.15) - Reason: Low confidence
+'0' (confidence: 0.99) - Reason: Too short
+'26x' (confidence: 0.18) - Reason: Low confidence
+'Icd Pp' (confidence: 0.16) - Reason: Low confidence
+'phun' (confidence: 0.05) - Reason: Low confidence
+'Daly' (confidence: 0.25) - Reason: Low confidence
+'M#n' (confidence: 0.12) - Reason: Low confidence
+'2' (confidence: 0.66) - Reason: Too short
+'6.4nS' (confidence: 0.18) - Reason: Low confidence
+'@rkMorah' (confidence: 0.01) - Reason: Low confidence
+'((Approved Mama)' (confidence: 0.28) - Reason: Low confidence
+'09t2is)' (confidence: 0.07) - Reason: Low confidence
+'Sr - HCPALV (Lud' (confidence: 0.14) - Reason: Low confidence
+'6' (confidence: 1.00) - Reason: Too short
+'NElvm cHwlzy' (confidence: 0.17) - Reason: Low confidence
+'d' (confidence: 0.34) - Reason: Too short
+'X' (confidence: 0.87) - Reason: Too short
+'lawvd' (confidence: 0.11) - Reason: Low confidence
+'Route IOrher Directon' (confidence: 0.13) - Reason: Low confidence
+'peterl' (confidence: 0.06) - Reason: Low confidence
+'Pxeeza]' (confidence: 0.01) - Reason: Low confidence
+'4' (confidence: 0.21) - Reason: Low confidence
+'2' (confidence: 0.38) - Reason: Too short
+'8lo' (confidence: 0.25) - Reason: Low confidence
+'3uyy' (confidence: 0.03) - Reason: Low confidence
+'&' (confidence: 0.55) - Reason: Too short
+'Ccy' (confidence: 0.05) - Reason: Low confidence
+'8' (confidence: 0.12) - Reason: Low confidence
+'Dato & Time skgnanne' (confidence: 0.14) - Reason: Low confidence
+'2' (confidence: 0.14) - Reason: Low confidence
+'44 &' (confidence: 0.24) - Reason: Low confidence
+'[RaAash' (confidence: 0.08) - Reason: Low confidence
+'SQH' (confidence: 0.08) - Reason: Low confidence
+'Ayt' (confidence: 0.17) - Reason: Low confidence
+'Jaltcw' (confidence: 0.06) - Reason: Low confidence
+'Vxybs' (confidence: 0.03) - Reason: Low confidence
+'Or R9c '' (confidence: 0.10) - Reason: Low confidence
+'Drug (Anproved /' (confidence: 0.27) - Reason: Low confidence
+'2' (confidence: 0.44) - Reason: Too short
+'P~?' (confidence: 0.15) - Reason: Low confidence
+'6' (confidence: 1.00) - Reason: Too short
+'Routa bter Diredton]' (confidence: 0.04) - Reason: Low confidence
+'Joddl' (confidence: 0.09) - Reason: Low confidence
+'W  Tuks' (confidence: 0.07) - Reason: Low confidence
+'4' (confidence: 0.51) - Reason: Too short
+'Eze' (confidence: 0.17) - Reason: Low confidence
+'[icea' (confidence: 0.04) - Reason: Low confidence
+'4ds' (confidence: 0.15) - Reason: Low confidence
+'8' (confidence: 0.25) - Reason: Low confidence
+'Sinelute' (confidence: 0.04) - Reason: Low confidence
+'KwAm' (confidence: 0.05) - Reason: Low confidence
+'Illx IOus eosh.' (confidence: 0.08) - Reason: Low confidence
+'8' (confidence: 0.12) - Reason: Low confidence
+'Anv' (confidence: 0.14) - Reason: Low confidence
+'[9i4i2s' (confidence: 0.11) - Reason: Low confidence
+'Drg(Aporoved Name)' (confidence: 0.20) - Reason: Low confidence
+''BZfiLAC' (confidence: 0.13) - Reason: Low confidence
+'6' (confidence: 1.00) - Reason: Too short
+'TAB: PAN' (confidence: 0.28) - Reason: Low confidence
+'(6)' (confidence: 1.00) - Reason: Too many special chars
+'Imd k' (confidence: 0.20) - Reason: Low confidence
+'Roule Ditert ?' (confidence: 0.12) - Reason: Low confidence
+'ini;' (confidence: 0.10) - Reason: Low confidence
+'Doze' (confidence: 0.11) - Reason: Low confidence
+'Roule btics Diecton' (confidence: 0.10) - Reason: Low confidence
+'4p Plo' (confidence: 0.07) - Reason: Low confidence
+'Knzl' (confidence: 0.01) - Reason: Low confidence
+'Oua 0l' (confidence: 0.06) - Reason: Low confidence
+'2' (confidence: 0.10) - Reason: Low confidence
+'?' (confidence: 0.47) - Reason: Too short
+'[1s|' (confidence: 0.13) - Reason: Low confidence
+'(Date & Tire| sSgnalie' (confidence: 0.15) - Reason: Low confidence
+'1' (confidence: 0.25) - Reason: Low confidence
+'(YI |Dasen]' (confidence: 0.08) - Reason: Low confidence
+'Bni' (confidence: 0.06) - Reason: Low confidence
+'Dn 5*4 'DJki' (confidence: 0.15) - Reason: Low confidence
+'Arkoeree' (confidence: 0.07) - Reason: Low confidence
+'6' (confidence: 1.00) - Reason: Too short
+'Qu' (confidence: 0.15) - Reason: Low confidence
+'Ealer Clrecicn]' (confidence: 0.09) - Reason: Low confidence
+'Roula "Othe Citecik' (confidence: 0.22) - Reason: Low confidence
+'motkky' (confidence: 0.02) - Reason: Low confidence
+'Acof  pio' (confidence: 0.08) - Reason: Low confidence
+'Oaue 9' (confidence: 0.27) - Reason: Low confidence
+'Pio praas' (confidence: 0.18) - Reason: Low confidence
+'0' (confidence: 1.00) - Reason: Too short
+'2' (confidence: 0.86) - Reason: Too short
+'2' (confidence: 0.76) - Reason: Too short
+'7' (confidence: 0.07) - Reason: Low confidence
+''Rony}' (confidence: 0.09) - Reason: Low confidence
+'64T' (confidence: 0.15) - Reason: Low confidence
+''pnla' (confidence: 0.10) - Reason: Low confidence
+'lPS' (confidence: 0.05) - Reason: Low confidence
+'dpdi' (confidence: 0.05) - Reason: Low confidence
+'ckel' (confidence: 0.14) - Reason: Low confidence
+'Ilebke' (confidence: 0.11) - Reason: Low confidence
+'B-ves' (confidence: 0.04) - Reason: Low confidence
+'Fx' (confidence: 0.05) - Reason: Low confidence
+'Au' (confidence: 0.12) - Reason: Low confidence
+'Don' (confidence: 0.27) - Reason: Low confidence
+'ouj' (confidence: 0.03) - Reason: Low confidence
+'Doja' (confidence: 0.25) - Reason: Low confidence
+'lan ' (confidence: 0.17) - Reason: Low confidence
+'Icldewl' (confidence: 0.09) - Reason: Low confidence
+'Tune]' (confidence: 0.24) - Reason: Low confidence
+'Nae)' (confidence: 0.21) - Reason: Low confidence
+'TMHEA' (confidence: 0.04) - Reason: Low confidence
+'Ikull 4' (confidence: 0.24) - Reason: Low confidence
+'Dmmem;l' (confidence: 0.21) - Reason: Low confidence
+'4 DtXl' (confidence: 0.10) - Reason: Low confidence
+'Ahehh' (confidence: 0.27) - Reason: Low confidence
+'pate' (confidence: 0.15) - Reason: Low confidence
+'3444' (confidence: 0.22) - Reason: Low confidence
+'4od' (confidence: 0.22) - Reason: Low confidence
+'8' (confidence: 0.79) - Reason: Too short
+'DiFiosh' (confidence: 0.13) - Reason: Low confidence
+'4umt' (confidence: 0.08) - Reason: Low confidence
+'Anm' (confidence: 0.22) - Reason: Low confidence
+'Cap' (confidence: 0.16) - Reason: Low confidence
+'Doso' (confidence: 0.29) - Reason: Low confidence
+'Rolte' (confidence: 0.22) - Reason: Low confidence
+'Alsa' (confidence: 0.07) - Reason: Low confidence
+'such' (confidence: 0.02) - Reason: Low confidence
+'Sgrahie' (confidence: 0.23) - Reason: Low confidence
+'(Slgneteebxtlys' (confidence: 0.04) - Reason: Low confidence
+'DAJ-' (confidence: 0.29) - Reason: Low confidence
